@@ -1,0 +1,5 @@
+{
+    "db_file":"data.db",
+    "db_type":"SQLITE",
+    "app_root":""
+}
